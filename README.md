@@ -9,7 +9,7 @@ It's to ensure the tutorials work correctly. I'll change and fix them with next 
 With that out the way. Here's a couple of preview Gameplays:
 
 Gameplay Preview 
-![Preview-Gameplay](https://youtu.be/H7pxMQPbGfI?si=ySHcsRzht5yohHDR)
+https://youtu.be/H7pxMQPbGfI?si=ySHcsRzht5yohHDR
 
 Cockpit Preview
 ![Preview-Cockpit](https://github.com/user-attachments/assets/713765d5-c8e9-4e9b-b9d3-8bd7e58c51b3)
