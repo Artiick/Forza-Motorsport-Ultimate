@@ -87,160 +87,151 @@
     </div>
 
     <style>
-        /* BASE */
+     /* BASE */
 
-        html {
-            scroll-behavior: smooth;
-            scrollbar-width: none;
-            /* Firefox */
-            -webkit-user-select: none;
-            /* Chrome, Safari, Opera */
-            -moz-user-select: none;
-            /* Firefox */
-            -ms-user-select: none;
-            /* Internet Explorer/Edge */
-            user-select: none;
-        }
+html {
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    /* Firefox */
+    -webkit-user-select: none;
+    /* Chrome, Safari, Opera */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+}
 
-        button:focus-visible {
-            outline: 0px;
-            border: 0px;
-            box-shadow: none;
-        }
+button:focus-visible {
+    outline: 0px;
+    border: 0px;
+    box-shadow: none;
+}
 
-        * {
-            border: 0px;
-            padding: 0px;
-            margin: 0px;
-            box-sizing: border-box;
-        }
+* {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
 
-        div,
-        table {
-            position: relative;
-        }
+div,
+table {
+    position: relative;
+}
 
-        .absolute {
-            position: absolute !important;
-        }
-
-
-        body {
-            background-color: #111115;
-            font-family: "Montserrat", serif;
-            font-optical-sizing: auto;
-            font-style: normal;
-            color: white;
-        }
-
-        a:link,
-        a:visited,
-        a:hover,
-        a:active {
-            text-decoration: none;
-        }
-
-        /* Classic anchor settings/styles */
-        a:link {
-            text-decoration: none;
-            color: rgb(68, 68, 255);
-        }
-
-        a:visited {
-            color: rgb(175, 0, 175);
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        a:active {
-            color: red;
-        }
-
-        /*--------------------------------------*/
-
-        /*Scroll Bar*/
-
-        .no-scrollbar::-webkit-scrollbar {
-            display: none !important;
-            -ms-overflow-style: none !important;
-            scrollbar-width: none !important;
-            height: 0px !important;
-            width: 0px !important;
-            background-color: #00000000 !important;
-        }
-
-        /* width right, height bottom */
-        ::-webkit-scrollbar {
-            width: 10px;
-            height: 10px;
-            display: block;
-        }
-
-        /* Track */
-        ::-webkit-scrollbar-track {
-            background: green;
-        }
-
-        /* Handle */
-        ::-webkit-scrollbar-thumb {
-            background: red;
-        }
-
-        /* Handle on hover */
-        ::-webkit-scrollbar-thumb:hover {
-            background: yellow;
-        }
-
-        /*--------------*/
+.absolute {
+    position: absolute !important;
+}
 
 
-        .container {
-            text-align: center;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-        }
+body {
+    background-color: #111115;
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: white;
+}
 
-        .steps {
-            padding: 5px;
-            margin-top: 25px;
-            font-weight: 600;
-            font-size: 2em;
-        }
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+}
 
-        .titletxt {
-            font-size: 2em;
-            font-style: italic;
-            margin: 25px;
-        }
+/* Classic anchor settings/styles */
+a:link {
+    text-decoration: none;
+    color: rgb(68, 68, 255);
+}
+a:visited {
+    color: rgb(175, 0, 175);
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    color: red;
+}
 
-        .basetxt {
-            margin: 5px;
-            font-size: 1.5em;
-            max-width: 1250px;
-        }
+/*--------------------------------------*/
 
-        .images img {
-            width: 1000px;
-            margin-bottom: 20px;
-        }
+/*Scroll Bar*/
 
-        span {
-            color: #00ff77;
-        }
+.no-scrollbar::-webkit-scrollbar {
+    display: none !important;
+    -ms-overflow-style: none !important;
+    scrollbar-width: none !important;
+    height: 0px !important;
+    width: 0px !important;
+    background-color: #00000000 !important;
+}
 
-        strong {
-            color: #ff0033
-        }
+/* width right, height bottom */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+    display: block;
+}
 
-        .images iframe {
-            width: calc(560px * 2);
-            height: calc(315px * 2);
-            aspect-ratio: 16 / 9;
-        }
+/* Track */
+::-webkit-scrollbar-track {
+    background: green;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: red;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: yellow;
+}
+
+/*--------------*/
+
+
+.container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.steps {
+    padding: 5px;
+    margin-top: 25px;
+    font-weight: 600;
+    font-size: 2em;
+}
+
+.titletxt {
+    font-size: 2em;
+    font-style: italic;
+    margin: 25px;
+}
+
+.basetxt {
+    margin: 5px;
+    font-size: 1.5em;
+    max-width: 1250px;
+}
+
+.images img {
+    width: 1000px;
+    margin-bottom: 20px;
+}
+
+span {
+    color: #00ff77;
+}
+
+strong {
+    color: #ff0033
+}
     </style>
 
 

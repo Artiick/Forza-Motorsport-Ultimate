@@ -85,171 +85,151 @@
             aspect-ratio: 16 / 9;
         }
 
-        .welp {
-            position: absolute;
-            top: 85px;
-            left: 50px;
-            font-size: 0.8em;
-        }
+  /* BASE */
 
-        .welp2 {
-            position: absolute;
-            top: 419px;
-            left: -62px;
-            font-size: 0.8em;
-            rotate: -90deg;
-            color: white;
-            opacity: 0.01;
-        }
+html {
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    /* Firefox */
+    -webkit-user-select: none;
+    /* Chrome, Safari, Opera */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+}
 
-        /* BASE */
+button:focus-visible {
+    outline: 0px;
+    border: 0px;
+    box-shadow: none;
+}
 
-        html {
-            scroll-behavior: smooth;
-            scrollbar-width: none;
-            /* Firefox */
-            -webkit-user-select: none;
-            /* Chrome, Safari, Opera */
-            -moz-user-select: none;
-            /* Firefox */
-            -ms-user-select: none;
-            /* Internet Explorer/Edge */
-            user-select: none;
-        }
+* {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
 
-        button:focus-visible {
-            outline: 0px;
-            border: 0px;
-            box-shadow: none;
-        }
+div,
+table {
+    position: relative;
+}
 
-        * {
-            border: 0px;
-            padding: 0px;
-            margin: 0px;
-            box-sizing: border-box;
-        }
-
-        div,
-        table {
-            position: relative;
-        }
-
-        .absolute {
-            position: absolute !important;
-        }
+.absolute {
+    position: absolute !important;
+}
 
 
-        body {
-            background-color: #111115;
-            font-family: "Montserrat", serif;
-            font-optical-sizing: auto;
-            font-style: normal;
-            color: white;
-        }
+body {
+    background-color: #111115;
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: white;
+}
 
-        a:link,
-        a:visited,
-        a:hover,
-        a:active {
-            text-decoration: none;
-        }
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+}
 
-        /* Classic anchor settings/styles */
-        a:link {
-            text-decoration: none;
-            color: rgb(68, 68, 255);
-        }
+/* Classic anchor settings/styles */
+a:link {
+    text-decoration: none;
+    color: rgb(68, 68, 255);
+}
+a:visited {
+    color: rgb(175, 0, 175);
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    color: red;
+}
 
-        a:visited {
-            color: rgb(175, 0, 175);
-        }
+/*--------------------------------------*/
 
-        a:hover {
-            text-decoration: underline;
-        }
+/*Scroll Bar*/
 
-        a:active {
-            color: red;
-        }
+.no-scrollbar::-webkit-scrollbar {
+    display: none !important;
+    -ms-overflow-style: none !important;
+    scrollbar-width: none !important;
+    height: 0px !important;
+    width: 0px !important;
+    background-color: #00000000 !important;
+}
 
-        /*--------------------------------------*/
+/* width right, height bottom */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+    display: block;
+}
 
-        /*Scroll Bar*/
+/* Track */
+::-webkit-scrollbar-track {
+    background: green;
+}
 
-        .no-scrollbar::-webkit-scrollbar {
-            display: none !important;
-            -ms-overflow-style: none !important;
-            scrollbar-width: none !important;
-            height: 0px !important;
-            width: 0px !important;
-            background-color: #00000000 !important;
-        }
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: red;
+}
 
-        /* width right, height bottom */
-        ::-webkit-scrollbar {
-            width: 10px;
-            height: 10px;
-            display: block;
-        }
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: yellow;
+}
 
-        /* Track */
-        ::-webkit-scrollbar-track {
-            background: green;
-        }
-
-        /* Handle */
-        ::-webkit-scrollbar-thumb {
-            background: red;
-        }
-
-        /* Handle on hover */
-        ::-webkit-scrollbar-thumb:hover {
-            background: yellow;
-        }
-
-        /*--------------*/
+/*--------------*/
 
 
-        .container {
-            text-align: center;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-        }
+.container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
 
-        .steps {
-            padding: 5px;
-            margin-top: 25px;
-            font-weight: 600;
-            font-size: 2em;
-        }
+.steps {
+    padding: 5px;
+    margin-top: 25px;
+    font-weight: 600;
+    font-size: 2em;
+}
 
-        .titletxt {
-            font-size: 2em;
-            font-style: italic;
-            margin: 25px;
-        }
+.titletxt {
+    font-size: 2em;
+    font-style: italic;
+    margin: 25px;
+}
 
-        .basetxt {
-            margin: 5px;
-            font-size: 1.5em;
-            max-width: 1250px;
-        }
+.basetxt {
+    margin: 5px;
+    font-size: 1.5em;
+    max-width: 1250px;
+}
 
-        .images img {
-            width: 1000px;
-            margin-bottom: 20px;
-        }
+.images img {
+    width: 1000px;
+    margin-bottom: 20px;
+}
 
-        span {
-            color: #00ff77;
-        }
+span {
+    color: #00ff77;
+}
 
-        strong {
-            color: #ff0033
-        }
+strong {
+    color: #ff0033
+}
     </style>
 
 
