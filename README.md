@@ -3,9 +3,6 @@ PLEASE read the HTML tutorials. At the very minimum the Setup Guide and the Tach
 
 (HUGH, "Reading" I know right. The forbidden technique)
 
-PS: Yes when you download it it'll be the usual GitHub .zip + Motorsport Ultimate's .zip. Sorry it's an inconvenience I know. 
-It's to ensure the tutorials work correctly. I'll change and fix them with next updates so you guys don't have to unzip twice.
-
 With that out the way. Here's a couple of preview Gameplays:
 
 Gameplay Preview 
