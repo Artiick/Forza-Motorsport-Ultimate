@@ -1,5 +1,5 @@
 Hello everyone :), quick reminder.
-PLEASE read the HTML tutorials. At the very minimum the Setup Guide and the Tachometer since those are there to ensure correct functionality.
+PLEASE read the HTML tutorials. At the very minimum the ones related to the Tachometer since those are there to ensure correct functionality.
 
 (HUGH, "Reading" I know right. The forbidden technique)
 
