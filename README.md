@@ -11,5 +11,5 @@ https://youtu.be/H7pxMQPbGfI?si=ySHcsRzht5yohHDR
 Cockpit Preview
 ![Preview-Cockpit](https://github.com/user-attachments/assets/713765d5-c8e9-4e9b-b9d3-8bd7e58c51b3)
 
-3RD Person Preview
+3rd Person Preview
 ![Preview-3rd-Person](https://github.com/user-attachments/assets/7d0292ce-0a63-4f7c-830e-a70259d01bf9)
