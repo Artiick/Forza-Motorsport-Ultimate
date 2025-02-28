@@ -1,3 +1,5 @@
+(If you want to automatically update Motorsport Ultimate, keep the installer and the "Tutorials..." folder on your system. When there's updates, run the installer again and it'll redownload the updated versions)
+
 Hello everyone :), quick reminder.
 PLEASE read the HTML tutorials. At the very minimum the ones related to the Tachometer since those are there to ensure correct functionality.
 
