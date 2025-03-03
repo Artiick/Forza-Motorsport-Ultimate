@@ -1,0 +1,86 @@
+{
+  "OverlayLayoutParts": [
+    {
+      "DashboardName": "DashTemplates\\Art-Car-Telemetry\\Art-Car-Telemetry.djson",
+      "Top": 866.0,
+      "Left": 633.0,
+      "Width": 138.0,
+      "Height": 188.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Delta-Bar\\Art-Delta-Bar.djson",
+      "Top": 132.0,
+      "Left": 1055.0,
+      "Width": 450.0,
+      "Height": 38.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Fuel-Info\\Art-Fuel-Info.djson",
+      "Top": 866.0,
+      "Left": 1637.0,
+      "Width": 81.0,
+      "Height": 188.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Lap-History-Extended-v1\\Art-Lap-History-Extended-v1.djson",
+      "Top": 287.0,
+      "Left": 320.0,
+      "Width": 255.0,
+      "Height": 503.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Race-Info\\Art-Race-Info.djson",
+      "Top": 0.0,
+      "Left": 1529.0,
+      "Width": 416.0,
+      "Height": 150.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Tachometer-Automated\\Art-Tachometer-Automated.djson",
+      "Top": 803.0,
+      "Left": 1862.0,
+      "Width": 301.0,
+      "Height": 251.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Timing-Sheet\\Art-Timing-Sheet.djson",
+      "Top": 0.0,
+      "Left": 844.0,
+      "Width": 198.0,
+      "Height": 236.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Tire-Wear\\Art-Tire-Wear.djson",
+      "Top": 866.0,
+      "Left": 1733.0,
+      "Width": 114.0,
+      "Height": 188.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    }
+  ],
+  "AutoMode": 0,
+  "Name": "Motorsport-Ultimate"
+}
