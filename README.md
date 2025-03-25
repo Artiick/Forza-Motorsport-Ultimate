@@ -7,11 +7,11 @@ PLEASE read the HTML tutorials. At the very minimum the ones related to the Tach
 
 With that out the way. Here's a couple of preview Gameplays:
 
-Gameplay Preview 
+Gameplay Preview (Outdated but will still give you an idea)
 https://youtu.be/H7pxMQPbGfI?si=ySHcsRzht5yohHDR
 
-Cockpit Preview
-![Preview-Cockpit](https://github.com/user-attachments/assets/713765d5-c8e9-4e9b-b9d3-8bd7e58c51b3)
+Cockpit Preview (1.4.0+)
+![1stperson](https://github.com/user-attachments/assets/6a9e2ec9-4a51-40a9-958d-fed7e4b74470)
 
-3rd Person Preview
-![Preview-3rd-Person](https://github.com/user-attachments/assets/7d0292ce-0a63-4f7c-830e-a70259d01bf9)
+3rd Person Preview (1.4.0+)
+![3rdperson](https://github.com/user-attachments/assets/dd218334-2588-4afa-b2e4-5976826e03d7)
