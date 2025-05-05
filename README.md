@@ -1,3 +1,5 @@
+IMPORTANT: WILL NOT WORK PROPERLY WITH SIMHUB 9.8.0 OR NEWER (I'M WORKING ON IT)
+
 (If you want to automatically update Motorsport Ultimate, keep the installer.exe on your system. When there's updates, run the installer again and it'll redownload the updated versions)
 
 Hello everyone :), quick reminder.
