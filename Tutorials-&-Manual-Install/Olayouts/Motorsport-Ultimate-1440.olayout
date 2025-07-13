@@ -23,8 +23,8 @@
     {
       "DashboardName": "DashTemplates\\Art-Fuel-Info\\Art-Fuel-Info.djson",
       "Top": 1155.0,
-      "Left": 1756.0,
-      "Width": 108.0,
+      "Left": 1742.0,
+      "Width": 133.0,
       "Height": 251.0,
       "Placed": true,
       "Transparent": false,
@@ -73,7 +73,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Tire-Wear\\Art-Tire-Wear.djson",
       "Top": 1155.0,
-      "Left": 1884.0,
+      "Left": 1889.0,
       "Width": 152.0,
       "Height": 251.0,
       "Placed": true,

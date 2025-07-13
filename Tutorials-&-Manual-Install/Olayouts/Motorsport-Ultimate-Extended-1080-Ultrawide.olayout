@@ -23,8 +23,8 @@
     {
       "DashboardName": "DashTemplates\\Art-Fuel-Info\\Art-Fuel-Info.djson",
       "Top": 866.0,
-      "Left": 1637.0,
-      "Width": 81.0,
+      "Left": 1626.0,
+      "Width": 100.0,
       "Height": 188.0,
       "Placed": true,
       "Transparent": false,
@@ -35,7 +35,7 @@
       "Top": 287.0,
       "Left": 320.0,
       "Width": 255.0,
-      "Height": 503.0,
+      "Height": 502.0,
       "Placed": true,
       "Transparent": false,
       "FileName": null
@@ -73,7 +73,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Tire-Wear\\Art-Tire-Wear.djson",
       "Top": 866.0,
-      "Left": 1733.0,
+      "Left": 1737.0,
       "Width": 114.0,
       "Height": 188.0,
       "Placed": true,
@@ -83,7 +83,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Mini-Notif\\Art-Mini-Notif.djson",
       "Top": 32.0,
-      "Left": 1905.0,
+      "Left": 1895.0,
       "Width": 300.0,
       "Height": 79.0,
       "Placed": true,
@@ -93,7 +93,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Mini-Sectors\\Art-Mini-Sectors.djson",
       "Top": 1017.0,
-      "Left": 1065.0,
+      "Left": 1055.0,
       "Width": 450.0,
       "Height": 38.0,
       "Placed": true,
@@ -103,7 +103,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Pit-Alert\\Art-Pit-Alert.djson",
       "Top": 482.0,
-      "Left": 2172.0,
+      "Left": 2162.0,
       "Width": 33.0,
       "Height": 120.0,
       "Placed": true,
@@ -113,7 +113,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Pit-Time-Lost\\Art-Pit-Time-Lost.djson",
       "Top": 806.0,
-      "Left": 1713.0,
+      "Left": 1703.0,
       "Width": 75.0,
       "Height": 48.0,
       "Placed": true,
@@ -123,7 +123,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Pit-Window\\Art-Pit-Window.djson",
       "Top": 806.0,
-      "Left": 1788.0,
+      "Left": 1778.0,
       "Width": 178.0,
       "Height": 48.0,
       "Placed": true,
@@ -133,7 +133,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Position-Arrows\\Art-Position-Arrows.djson",
       "Top": 59.0,
-      "Left": 419.0,
+      "Left": 409.0,
       "Width": 75.0,
       "Height": 159.0,
       "Placed": true,

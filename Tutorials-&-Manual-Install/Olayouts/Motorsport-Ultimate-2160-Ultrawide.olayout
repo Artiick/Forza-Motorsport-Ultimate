@@ -3,7 +3,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Car-Telemetry\\Art-Car-Telemetry.djson",
       "Top": 1732.0,
-      "Left": 1265.0,
+      "Left": 1285.0,
       "Width": 276.0,
       "Height": 377.0,
       "Placed": true,
@@ -13,7 +13,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Delta-Bar\\Art-Delta-Bar.djson",
       "Top": 263.0,
-      "Left": 2110.0,
+      "Left": 2130.0,
       "Width": 900.0,
       "Height": 75.0,
       "Placed": true,
@@ -23,8 +23,8 @@
     {
       "DashboardName": "DashTemplates\\Art-Fuel-Info\\Art-Fuel-Info.djson",
       "Top": 1732.0,
-      "Left": 3275.0,
-      "Width": 162.0,
+      "Left": 3272.0,
+      "Width": 199.0,
       "Height": 377.0,
       "Placed": true,
       "Transparent": false,
@@ -33,7 +33,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Lap-History-v1a\\Art-Lap-History-v1a.djson",
       "Top": 808.0,
-      "Left": 640.0,
+      "Left": 660.0,
       "Width": 509.0,
       "Height": 552.0,
       "Placed": true,
@@ -43,7 +43,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Race-Info\\Art-Race-Info.djson",
       "Top": 0.0,
-      "Left": 3057.0,
+      "Left": 3077.0,
       "Width": 833.0,
       "Height": 300.0,
       "Placed": true,
@@ -53,7 +53,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Tachometer-Automated\\Art-Tachometer-Automated.djson",
       "Top": 1607.0,
-      "Left": 3724.0,
+      "Left": 3744.0,
       "Width": 603.0,
       "Height": 502.0,
       "Placed": true,
@@ -63,7 +63,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Timing-Sheet\\Art-Timing-Sheet.djson",
       "Top": 0.0,
-      "Left": 1688.0,
+      "Left": 1708.0,
       "Width": 395.0,
       "Height": 472.0,
       "Placed": true,
@@ -73,7 +73,7 @@
     {
       "DashboardName": "DashTemplates\\Art-Tire-Wear\\Art-Tire-Wear.djson",
       "Top": 1732.0,
-      "Left": 3467.0,
+      "Left": 3494.0,
       "Width": 228.0,
       "Height": 377.0,
       "Placed": true,
