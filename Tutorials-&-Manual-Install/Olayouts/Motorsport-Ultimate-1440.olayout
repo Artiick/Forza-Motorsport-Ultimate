@@ -79,8 +79,68 @@
       "Placed": true,
       "Transparent": false,
       "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Mini-Notif\\Art-Mini-Notif.djson",
+      "Top": 43.0,
+      "Left": 2100.0,
+      "Width": 400.0,
+      "Height": 105.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Mini-Sectors\\Art-Mini-Sectors.djson",
+      "Top": 1356.0,
+      "Left": 980.0,
+      "Width": 600.0,
+      "Height": 50.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Pit-Alert\\Art-Pit-Alert.djson",
+      "Top": 643.0,
+      "Left": 2456.0,
+      "Width": 44.0,
+      "Height": 160.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Pit-Time-Lost\\Art-Pit-Time-Lost.djson",
+      "Top": 1075.0,
+      "Left": 1843.0,
+      "Width": 100.0,
+      "Height": 65.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Pit-Window\\Art-Pit-Window.djson",
+      "Top": 1075.0,
+      "Left": 1944.0,
+      "Width": 237.0,
+      "Height": 65.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Position-Arrows\\Art-Position-Arrows.djson",
+      "Top": 79.0,
+      "Left": 118.0,
+      "Width": 100.0,
+      "Height": 212.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
     }
   ],
   "AutoMode": 0,
-  "Name": "Motorsport-Ultimate"
+  "Name": "Motorsport-Ultimate-1440"
 }

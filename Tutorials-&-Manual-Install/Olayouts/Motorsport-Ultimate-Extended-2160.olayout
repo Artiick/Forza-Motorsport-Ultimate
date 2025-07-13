@@ -79,6 +79,66 @@
       "Placed": true,
       "Transparent": false,
       "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Mini-Notif\\Art-Mini-Notif.djson",
+      "Top": 64.0,
+      "Left": 3149.0,
+      "Width": 600.0,
+      "Height": 158.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Mini-Sectors\\Art-Mini-Sectors.djson",
+      "Top": 2034.0,
+      "Left": 1470.0,
+      "Width": 900.0,
+      "Height": 75.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Pit-Alert\\Art-Pit-Alert.djson",
+      "Top": 964.0,
+      "Left": 3683.0,
+      "Width": 66.0,
+      "Height": 240.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Pit-Time-Lost\\Art-Pit-Time-Lost.djson",
+      "Top": 1613.0,
+      "Left": 2765.0,
+      "Width": 151.0,
+      "Height": 97.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Pit-Window\\Art-Pit-Window.djson",
+      "Top": 1613.0,
+      "Left": 2916.0,
+      "Width": 356.0,
+      "Height": 97.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
+    },
+    {
+      "DashboardName": "DashTemplates\\Art-Position-Arrows\\Art-Position-Arrows.djson",
+      "Top": 119.0,
+      "Left": 177.0,
+      "Width": 150.0,
+      "Height": 318.0,
+      "Placed": true,
+      "Transparent": false,
+      "FileName": null
     }
   ],
   "AutoMode": 0,
