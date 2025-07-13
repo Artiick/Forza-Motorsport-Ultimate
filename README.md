@@ -1,4 +1,4 @@
-IMPORTANT: WILL NOT WORK PROPERLY WITH SIMHUB 9.8.0 OR NEWER (I'M WORKING ON IT)
+IMPORTANT: WILL NOT WORK WITH OUTDATED SIMHUB. 9.8.0 OR NEWER IS REQUIRED
 
 (If you want to automatically update Motorsport Ultimate, keep the installer.exe on your system. When there's updates, run the installer again and it'll redownload the updated versions)
 
@@ -12,8 +12,8 @@ With that out the way. Here's a couple of preview Gameplays:
 Gameplay Preview (Outdated but will still give you an idea)
 https://youtu.be/H7pxMQPbGfI?si=ySHcsRzht5yohHDR
 
-Cockpit Preview (1.4.0+)
-![1stperson](https://github.com/user-attachments/assets/6a9e2ec9-4a51-40a9-958d-fed7e4b74470)
+Cockpit Preview (1.5.0+)
+![150-cockpit](https://github.com/user-attachments/assets/cd07fc5e-6d81-484d-b5bc-33bb77fdb47b)
 
-3rd Person Preview (1.4.0+)
-![3rdperson](https://github.com/user-attachments/assets/dd218334-2588-4afa-b2e4-5976826e03d7)
+3rd Person Preview (1.5.0+)
+![150-outside](https://github.com/user-attachments/assets/8bdb4476-0239-49e5-b523-19b3a0a420c1)
